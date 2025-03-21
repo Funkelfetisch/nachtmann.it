@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Veit Justus Nachtmann</title>
+    <link href="https://nachtmann.it/feed.xml" rel="self" />
+    <link href="https://nachtmann.it" />
+    <updated>2025-03-21T16:42:54+01:00</updated>
+    <author>
+        <name>Veit Nachtmann</name>
+    </author>
+    <id>https://nachtmann.it</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Veit Nachtmann</name>
+        </author>
+        <link href="https://nachtmann.it/test/"/>
+        <id>https://nachtmann.it/test/</id>
+
+        <updated>2025-03-21T16:42:54+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

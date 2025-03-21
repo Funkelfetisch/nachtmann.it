@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Veit Justus Nachtmann",
+    "description": "",
+    "home_page_url": "https://nachtmann.it",
+    "feed_url": "https://nachtmann.it/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Veit Nachtmann"
+    },
+    "items": [
+        {
+            "id": "https://nachtmann.it/test/",
+            "url": "https://nachtmann.it/test/",
+            "title": "test",
+            "author": {
+                "name": "Veit Nachtmann"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-21T16:42:54+01:00",
+            "date_modified": "2025-03-21T16:42:54+01:00"
+        }
+    ]
+}
